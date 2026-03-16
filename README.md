@@ -62,9 +62,8 @@ Rank recommended items for each user
 #### Dataset
 
 This project can be trained on several public recommendation datasets:
-1. MovieLens Dataset
-2. Amazon Product Reviews Dataset
-3. Instacart Online Grocery Dataset
+1. Amazon Product Reviews Dataset
+
 
 Example dataset used in this project:
 
